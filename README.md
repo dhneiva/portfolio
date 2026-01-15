@@ -15,6 +15,7 @@ Vamu Nessa is a platform for managing and optimizing daily carpooling, designed 
 This project is under active development and may evolve to include:
 - Intelligent ride matching algorithms
 - Analytics and usage insights
+  
 *If you want to have it a go, please contact aimirisolutions@gmail.com
 
 # Screenshots
