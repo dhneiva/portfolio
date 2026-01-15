@@ -1,5 +1,3 @@
-# my portfolio
-  
 # Personal project: 
 <img width="50" height="50" alt="carona" src="https://github.com/user-attachments/assets/23c46ecc-ccd5-49f1-9603-a502041de3fb" /> Vamu nessa - Daily Carpool Management Platform
 
@@ -24,7 +22,5 @@ This project is under active development and may evolve to include:
 <img width="1453" height="827" alt="Screenshot from 2026-01-14 10-37-06" src="https://github.com/user-attachments/assets/ed32f47f-fcd6-41a3-9f4a-edb33cea2e44" />
 <img width="1453" height="827" alt="Screenshot from 2026-01-14 10-38-06" src="https://github.com/user-attachments/assets/c2194349-ebc1-4cc7-be6c-1cfd83c02a93" />
 
-***********************************************************************************************
-# Academic papers:
 
 
